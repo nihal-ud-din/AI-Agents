@@ -1,0 +1,7 @@
+../venv
+.python-version
+pyproject.toml
+MCPAddNote/uv.lock
+.venv
+.idea
+.DS_Store
